@@ -35,4 +35,6 @@
   🌐 Website: Coming soon! 
 </div>
 
+<hr>
+
 <div align="center">Thanks for visiting my profile! I hope you find something interesting around here. Contact me, Let's build something awesome together!</div>
