@@ -12,9 +12,9 @@
 ## About Me
 
 <div align="center">
-  🎓 Graduated in the art of analyzing data in 4Geeks and (trying to) writing clean, elegant code. <br>
+  🎓 Graduated in the art of analyzing data in https://4geeks.com/ and writing clean, elegant code. <br>
   💡 Always on the hunt for new ideas and opportunities to learn and grow.<br>
-  🔍 Seeking to join forces with curious minds passionate about technology.
+  🔍 Seeking to join forces with <b>curious minds passionate about technology</b>.
 </div>
 
 ## Skills
