@@ -5,7 +5,7 @@
 <div align="center">Welcome to my corner on GitHub! I'm Enmanuel Gutiérrez, a passionate data scientist and Python developer on the lookout for innovative solutions and exciting ML challenges.</div>
 
 
-![alt text](assets/dynamic_matplotlib4.gif)
+![alt text](assets/dynamic_matplotlib4.gif| 400)
 
 
 ## About Me
