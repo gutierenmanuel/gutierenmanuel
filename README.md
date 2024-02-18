@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="assets/dynamic_matplotlib4.gif" alt="dynamic test for matplotlib">
-</div>
+
+![alt text](assets/dynamic_matplotlib4.gif)
 
 # Hi! Im Enmanuel¡ 👋
 
