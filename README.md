@@ -38,7 +38,7 @@
   📬 Interested in collaborating or just chatting about tech and data? Let's talk!<br>
   📧 Email: gutierenmanuel15@gmail.com <br>
   🔗 LinkedIn: https://www.linkedin.com/in/enmanuel-gutierrez-7b693b217/ <br>
-  🌐 Website: Ctrl-alt-data.tech
+  🌐 Website: https://ctrl-alt-data.tech
 </div>
 
 <hr>
